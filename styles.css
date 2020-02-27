@@ -1,0 +1,67 @@
+body{
+    font-family: "montserrat";
+}
+/* title */
+#title{
+    background-color: #2a7886;
+    text-align: center;
+    color: azure;
+}
+
+.intro{
+    text-align: left;
+    padding: 5% 13%;
+    width: 80%;
+    margin: auto;
+}
+
+
+
+
+h1{
+    font-weight: 700;
+}
+
+p{
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+/* aspirations */
+#aspirations{
+    background-color: azure;
+    text-align: center;
+}
+
+
+.aspirations{
+    text-align: left;
+    padding: 5% 13%;
+    width: 80%;
+    margin: auto;
+}
+
+.yo{
+    background-color: azure;
+    padding-left: 0;
+}
+
+.aspimg{
+    width: 20%;
+    flex: none;
+    max-width: none;
+}
+
+/* education */
+#education{
+    background-color: #2a7886;
+    color: azure;
+}
+
+.edu{
+    text-align: left;
+    padding: 5% 13%;
+    width: 80%;
+    margin: auto;
+}
+
